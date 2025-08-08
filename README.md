@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Muhammad Saim</h1>
+<h1 align="center">Hi, I'm Muhammad Saim</h1>
 
 <p align="center">
   Software Engineer | Full-Stack Developer | DevOps Enthusiast
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **full-stack software engineer** with a passion for building high-performance, user-centric web platforms. From **authentication systems with Keycloak** to **scalable cloud-native apps using Next.js, AWS, and PostgreSQL**, I focus on real-world problem solving and clean architecture.
 
@@ -20,7 +20,7 @@ I'm currently engineering at **QuivLabs**, shipping production-grade features in
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Tools**  
 TypeScript • JavaScript • Python • Java • C++  
@@ -31,25 +31,7 @@ Swagger • Google Maps API
 
 ---
 
-## 🔥 Highlight Projects
-
-### 🎓 [Learning Management System – Akako](#)
-> Modular, mentor-driven education platform
-
-- Developed with **Next.js 15 + PostgreSQL + TailwindCSS**
-- Implemented **chunked video uploads**, secure RBAC via **Keycloak**, and mentor-assigned modular courses
-- Used **Amazon S3** with pre-signed URLs for secure video handling
-
-### 📍 [MeetInCafe – Event Management Platform](#)
-> Real-time event discovery and scheduling app
-
-- Built with **Prisma ORM**, **PostgreSQL**, and **Google Maps**
-- Integrated **JWT** and **LinkedIn OAuth** for role-based access control
-- Performance-optimized with **RTK Query** and geolocation-based discovery
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saim-ofc&show_icons=true&theme=default" />
@@ -61,21 +43,21 @@ Swagger • Google Maps API
 
 ---
 
-## 🧠 Interests
+## Interests
 
-- 🔐 Authentication Systems
-- 🌍 Geolocation & Real-Time Apps
-- 🎥 Video Streaming & Cloud Storage
-- 🧪 Experimenting with New Frameworks
-- 🔁 Scripting and Automation
+- Authentication Systems
+- Geolocation & Real-Time Apps
+- Video Streaming & Cloud Storage
+- Experimenting with New Frameworks
+- Scripting and Automation
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-- 📧 Email: [saim.ofc@outlook.com](mailto:saim.ofc@outlook.com)  
-- 🌐 LinkedIn: [linkedin.com/in/saim-ofc](https://www.linkedin.com/in/saim-ofc)  
-- 💻 GitHub: [github.com/saim-ofc](https://github.com/saim-ofc)
+- Email: [saim.ofc@outlook.com](mailto:saim.ofc@outlook.com)  
+- LinkedIn: [linkedin.com/in/saim-ofc](https://www.linkedin.com/in/saim-ofc)  
+- GitHub: [github.com/saim-ofc](https://github.com/saim-ofc)
 
 ---
 
