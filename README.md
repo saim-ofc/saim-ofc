@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:saim.ofc@outlook.com">📧 Email</a> •
   <a href="https://github.com/saim-ofc">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/saim-ofc">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/saim-ofc">🔗 LinkedIn</a>
 </p>
 
 ---
@@ -74,7 +74,7 @@ Swagger • Google Maps API
 ## 📫 Let's Connect
 
 - 📧 Email: [saim.ofc@outlook.com](mailto:saim.ofc@outlook.com)  
-- 🌐 LinkedIn: [linkedin.com/in/saim-ofc](https://linkedin.com/in/saim-ofc)  
+- 🌐 LinkedIn: [linkedin.com/in/saim-ofc](https://www.linkedin.com/in/saim-ofc)  
 - 💻 GitHub: [github.com/saim-ofc](https://github.com/saim-ofc)
 
 ---
