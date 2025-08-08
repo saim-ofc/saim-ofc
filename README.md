@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Muhammad Saim</h1>
 
-<!--
-**saim-ofc/saim-ofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Engineer | Full-Stack Developer | DevOps Enthusiast
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:saim.ofc@outlook.com">📧 Email</a> •
+  <a href="https://github.com/saim-ofc">💻 GitHub</a> •
+  <a href="https://linkedin.com/in/saim-ofc">🔗 LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a **full-stack software engineer** with a passion for building high-performance, user-centric web platforms. From **authentication systems with Keycloak** to **scalable cloud-native apps using Next.js, AWS, and PostgreSQL**, I focus on real-world problem solving and clean architecture.
+
+I'm currently engineering at **QuivLabs**, shipping production-grade features in a modern stack including **Next.js 15, TypeScript, Prisma ORM, and TailwindCSS**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools**  
+TypeScript • JavaScript • Python • Java • C++  
+Next.js • React.js • Node.js • Prisma • PostgreSQL • MongoDB  
+TailwindCSS • Radix UI • Bootstrap • HTML/CSS  
+Git • GitHub • AWS S3/RDS • Keycloak • OAuth • JWT  
+Swagger • Google Maps API
+
+---
+
+## 🔥 Highlight Projects
+
+### 🎓 [Learning Management System – Akako](#)
+> Modular, mentor-driven education platform
+
+- Developed with **Next.js 15 + PostgreSQL + TailwindCSS**
+- Implemented **chunked video uploads**, secure RBAC via **Keycloak**, and mentor-assigned modular courses
+- Used **Amazon S3** with pre-signed URLs for secure video handling
+
+### 📍 [MeetInCafe – Event Management Platform](#)
+> Real-time event discovery and scheduling app
+
+- Built with **Prisma ORM**, **PostgreSQL**, and **Google Maps**
+- Integrated **JWT** and **LinkedIn OAuth** for role-based access control
+- Performance-optimized with **RTK Query** and geolocation-based discovery
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saim-ofc&show_icons=true&theme=default" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saim-ofc&theme=default" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saim-ofc&layout=compact" />
+</p>
+
+---
+
+## 🧠 Interests
+
+- 🔐 Authentication Systems
+- 🌍 Geolocation & Real-Time Apps
+- 🎥 Video Streaming & Cloud Storage
+- 🧪 Experimenting with New Frameworks
+- 🔁 Scripting and Automation
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [saim.ofc@outlook.com](mailto:saim.ofc@outlook.com)  
+- 🌐 LinkedIn: [linkedin.com/in/saim-ofc](https://linkedin.com/in/saim-ofc)  
+- 💻 GitHub: [github.com/saim-ofc](https://github.com/saim-ofc)
+
+---
+
+> “Code is not just about solving problems — it’s about crafting resilient, elegant systems that scale with purpose.” – *Saim*
+
